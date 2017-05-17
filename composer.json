@@ -3,6 +3,7 @@
     "description": "Cache the laravel Auth::user()",
     "keywords": ["laravel", "auth", "cache"],
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Robert Fridzema",
